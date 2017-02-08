@@ -98,15 +98,18 @@ myDate.getDay()); - gets number representation of the day of the week (Sunday -S
 myDate.getMinutes();- gets minutes
 var mySetDate = myDate.setFullYear(2011, 9, 31); - create the object then change the date
 
+Javascript Functions
 
+Javascript functions are asynchronus, they look throughout the document before
+saying a variable is not in the function
 
 
 JavaScript strings
 length property;
-•toLowerCase()/toUpperCase();
-•match();
-•replace();
-•indexOf().
+â€¢toLowerCase()/toUpperCase();
+â€¢match();
+â€¢replace();
+â€¢indexOf().
 
 
 
