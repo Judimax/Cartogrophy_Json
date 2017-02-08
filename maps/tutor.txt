@@ -343,6 +343,12 @@ font family: family-name, generic-family     desired font if not available uses 
 The order of values for font is:
 font-style | font-variant | font-weight | font-size | font-family
 
+CSS Stroke: (this is for outlining irreg objects)
+stroke : #AABBCC;
+         color;
+	 rgb(x,y,z);
+stroke-width: px;
+
 
 CSS Background	
 background-color: #FFCC66;
@@ -387,6 +393,10 @@ element.class
 {...
 }
 
+.class {
+...
+
+}
 #id
 {..
 }
